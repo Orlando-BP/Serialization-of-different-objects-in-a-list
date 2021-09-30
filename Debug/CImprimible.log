@@ -1,0 +1,5 @@
+﻿  CImprimible.cpp
+C:\Users\x\source\repos\CImprimible\CImprimible\CImprimible.cpp(14,44): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  CLista.cpp
+  Generando código...
+  CImprimible.vcxproj -> C:\Users\x\source\repos\CImprimible\Debug\CImprimible.exe
